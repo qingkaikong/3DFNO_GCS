@@ -2,7 +2,7 @@
 
 This repo contains code to train/test FNO (U-NO) on [LLNL's Lassen](https://hpc.llnl.gov/hardware/compute-platforms/lassen) with distributed training. This is the main code used in the paper Multi-fidelity Fourier Neural Operator for Fast Modeling of Large-Scale Geological Carbon Storage in Journal of Hydrology [arXiv version](https://arxiv.org/abs/2308.09113).
 
-### Running the code
+### [Running the code](#running)
 
 1. prepare training data using 01_convert_data.ipynb  
 2. run training using main.py  
@@ -10,7 +10,7 @@ This repo contains code to train/test FNO (U-NO) on [LLNL's Lassen](https://hpc.
 4. visualize the test results using visualize_test_results.ipynb  
 
 
-### Folder structures
+### [Folder structures](#structures)
 
 The code organized in the following way:
 
@@ -33,12 +33,12 @@ The code organized in the following way:
 ├── README.md    
 └── .gitignore  
 
-### License
+### [License](#license)
 
 This code is provided under the [MIT License](LICENSE.txt).
 
 ```text
- Copyright (c) 2023 Qingkai Kong
+ Copyright (c) 2023 Qingkai Kong/Hewei Tang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
