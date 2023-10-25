@@ -63,7 +63,8 @@ SOFTWARE.
 ```text
 
 This work was completed as part of the Science-informed Machine learning to
-Accelerate Real Time decision making for Carbon Storage (SMART-CS) Initiative (edx.netl.doe.gov/SMART). Support for this initiative came from the U.S.
+Accelerate Real Time decision making for Carbon Storage (SMART-CS) Initiative
+(edx.netl.doe.gov/SMART). Support for this initiative came from the U.S.
 DOE Office of Fossil Energy’s Carbon Storage Research program. Part of the
 implemented pipeline was supported by the LLNL-LDRD Program under
 Project No. 23-FS-021.
