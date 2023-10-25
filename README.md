@@ -35,7 +35,7 @@ The code organized in the following way:
 
 ### [License](#license)
 
-This code is provided under the [MIT License](LICENSE).
+This code is provided under the MIT License.
 
 ```text
  Copyright (c) 2023 Qingkai Kong/Hewei Tang
