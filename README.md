@@ -1,6 +1,6 @@
 ## Fourier Neural Operator (FNO) on Lassen
 
-This repo contains code to train/test FNO (U-NO) on [LLNL's Lassen](https://hpc.llnl.gov/hardware/compute-platforms/lassen) with distributed training. This is the main code used in the paper Multi-fidelity Fourier Neural Operator for Fast Modeling of Large-Scale Geological Carbon Storage in Journal of Hydrology [arXiv version](https://arxiv.org/abs/2308.09113).
+This repo contains code to train/test FNO (U-NO) on [LLNL's Lassen](https://hpc.llnl.gov/hardware/compute-platforms/lassen) with distributed training. This is the main code used in the paper Multi-fidelity Fourier Neural Operator for Fast Modeling of Large-Scale Geological Carbon Storage in the Journal of Hydrology [arXiv version](https://arxiv.org/abs/2308.09113).
 
 ### [Running the code](#running)
 
@@ -9,10 +9,11 @@ This repo contains code to train/test FNO (U-NO) on [LLNL's Lassen](https://hpc.
 3. run the test using run_test.py  
 4. visualize the test results using visualize_test_results.ipynb  
 
+Note: The code to generate the data has been released in the [Data Generation Repo](https://github.com/tang39/clastic_shelf_GEOS)
 
 ### [Folder structures](#structures)
 
-The code organized in the following way:
+The code is organized in the following way:
 
 ├── src    
 │   ├── utils    
@@ -96,4 +97,4 @@ The Seismic Record 2021;; 1 (3): 126–134. doi: https://doi.org/10.1785/0320210
   by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344.
 ```
 
-``LLNL-CODE-XXXXXX``
+``Release Info: LLNL-CODE-858160``
